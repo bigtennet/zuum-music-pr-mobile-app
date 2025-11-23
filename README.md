@@ -54,18 +54,16 @@ flutter run -d <device-id>
 
 ## Configuration
 
-### Changing the Web App URL
+### Web App URL
 
-To change the web app URL, edit the constant in `lib/main.dart`:
+This app is specifically designed for the **Zuum Music** web application. The URL is configured in `lib/main.dart`:
 
 ```dart
 // Line 9 in lib/main.dart
 const String kWebAppUrl = "https://www.zuummusicpr.com";
 ```
 
-Replace the URL with your desired web application URL.
-
-**Note:** The app is currently configured to use `www.zuummusicpr.com` as that's the canonical URL the site redirects to.
+**Note:** This URL is fixed and should not be changed, as the app is specifically built for the Zuum Music web application.
 
 ### Logo Configuration
 
