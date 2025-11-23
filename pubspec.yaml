@@ -1,0 +1,28 @@
+name: flutter_zuum
+description: A Flutter WebView wrapper for the Zuum Music web application.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  webview_flutter: ^4.4.2
+  webview_flutter_android: ^3.10.0
+  webview_flutter_wkwebview: ^3.9.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  
+  # Assets for splash screen logo
+  # Place your logo.png file in the assets/ directory
+  assets:
+    - assets/logo.png
+

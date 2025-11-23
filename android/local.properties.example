@@ -1,0 +1,7 @@
+## This file is used to configure the Flutter SDK location and other build settings.
+## Copy this file to `local.properties` and update the paths for your system.
+##
+## Example:
+# sdk.dir=/Users/username/Library/Android/sdk
+# flutter.sdk=/path/to/flutter
+

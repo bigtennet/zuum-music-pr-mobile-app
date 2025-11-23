@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Placeholder for logo -->
+<!-- INSTRUCTIONS: Replace this file with your actual logo.png -->
+<!-- Or place logo.png directly in this drawable folder -->
+<!-- Recommended size: 512x512px or larger for best quality -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <!-- Temporary placeholder - replace with actual logo -->
+    <solid android:color="#FFFFFF" />
+</shape>
+
